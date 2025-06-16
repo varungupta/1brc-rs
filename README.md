@@ -7,4 +7,5 @@ While the official challenge - which was for Java implementations - ended  in Ja
 Execution time and Memory usage for each implementation will be recorded here in this file.
 
 |Implementation Approach|Execution Time|Memory|
+|----|----|----|
 |Naive Hashmap| | |
