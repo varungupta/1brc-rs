@@ -6,5 +6,5 @@ While the official challenge - which was for Java implementations - ended  in Ja
 
 Execution time and Memory usage for each implementation will be recorded here in this file.
 
-Naive implemention will be the first one to establish the baseline.
-Subsequent implementations will be committed to the repo with main.rs always reflectng the latest implementation.
+|Implementation Approach|Execution Time|Memory|
+|Naive Hashmap| | |
