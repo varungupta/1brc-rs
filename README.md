@@ -9,5 +9,5 @@ Execution time and Memory usage for each implementation will be recorded here in
 |Implementation Approach|Execution Time|Memory|
 |----|----|----|
 |Naive Hashmap| | |
-| | | |
-| | | |
+| -- | -- | -- |
+| -- | -- | -- |
