@@ -6,6 +6,8 @@ While the official challenge - which was for Java implementations - ended  in Ja
 
 Execution time and Memory usage for each implementation will be recorded here in this file.
 
+The datafile generator function is included in the code and mirrors the original Java implementation.
+
 |Implementation Approach|Execution Time|Memory|
 |----|----|----|
 |Naive Hash Counter| | |
