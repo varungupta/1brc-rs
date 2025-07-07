@@ -12,4 +12,4 @@ The datafile generator function is included in the code and mirrors the original
 |----|----|----|
 |Naive Hash Counter| | |
 | SIMD | -- | -- |
-| -- | -- | -- |
+| Paralel Processing of Data chunks | -- | -- |
